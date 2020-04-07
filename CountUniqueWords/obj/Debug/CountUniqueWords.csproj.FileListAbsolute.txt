@@ -1,0 +1,7 @@
+C:\Users\ganes\source\repos\CountUniqueWords\CountUniqueWords\obj\Debug\CountUniqueWords.csprojAssemblyReference.cache
+C:\Users\ganes\source\repos\CountUniqueWords\CountUniqueWords\obj\Debug\CountUniqueWords.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\CountUniqueWords\CountUniqueWords\bin\Debug\CountUniqueWords.exe.config
+C:\Users\ganes\source\repos\CountUniqueWords\CountUniqueWords\bin\Debug\CountUniqueWords.exe
+C:\Users\ganes\source\repos\CountUniqueWords\CountUniqueWords\bin\Debug\CountUniqueWords.pdb
+C:\Users\ganes\source\repos\CountUniqueWords\CountUniqueWords\obj\Debug\CountUniqueWords.exe
+C:\Users\ganes\source\repos\CountUniqueWords\CountUniqueWords\obj\Debug\CountUniqueWords.pdb
